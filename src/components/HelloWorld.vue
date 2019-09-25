@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>页面一</h1>
+    <h1>页面一测试合并</h1>
     
   </div>
 </template>
